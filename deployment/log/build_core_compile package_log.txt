@@ -1,0 +1,16 @@
+Buildfile: C:\Users\natha\OneDrive\Bureau\GPT_carte\gpt_carte\gpt_carte\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 229 source files to C:\Users\natha\OneDrive\Bureau\GPT_carte\gpt_carte\gpt_carte\deployment\run\bin
+    [javac] Note: Some input files use or override a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+package:
+      [jar] Building jar: C:\Users\natha\OneDrive\Bureau\GPT_carte\gpt_carte\gpt_carte\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 7 seconds
+
+

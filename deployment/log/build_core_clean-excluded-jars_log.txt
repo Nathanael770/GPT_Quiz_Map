@@ -1,0 +1,7 @@
+Buildfile: C:\Users\natha\OneDrive\Bureau\GPT_carte\gpt_carte\gpt_carte\deployment\build_core.xml
+
+clean-excluded-jars:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
